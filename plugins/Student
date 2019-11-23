@@ -1,0 +1,12 @@
+{
+  "name": "马云",
+  "age": 12,
+  "country": "中国",
+  "address": "北京市朝阳区某某小区",
+  "family": ["爸爸","妈妈","姐姐","奶奶","爷爷"],
+  "grade": {
+      "physical": 90,
+      "mathematics": 100,
+      "english": 89
+  }
+}

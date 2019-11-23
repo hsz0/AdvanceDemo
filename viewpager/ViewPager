@@ -1,0 +1,4 @@
+ViewPager + Fragment + FragmentPagerAdapter(适配器)
+
+1.继承自ViewGroup，是一个容器。
+2.常用结合Fragment来使用，从而能够方便的管理每个页面的生命周期，ViewPager通过适配器管理Fragment

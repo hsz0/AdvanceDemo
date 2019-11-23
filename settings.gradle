@@ -1,0 +1,2 @@
+include ':app', ':plugins', ':viewpager', ':decompile'
+rootProject.name='AdvanceDemo'
